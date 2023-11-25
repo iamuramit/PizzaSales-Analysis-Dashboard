@@ -38,7 +38,3 @@ Whenever I click on the dashboard, it will change completely according to the cl
 I have shown the rest through Bar chart, Line Chart, Donut chart, Funnel chart, Slicers, Filters, Page Navigation etc
 
 If you think that adding something else to it could have made it look better, then let me know so that I can improve it.
-
-
-
-#businessanalytics #dataanalytics #mncjobs #hr #job #mis #hiring #hiringalerts #business
