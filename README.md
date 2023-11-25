@@ -1,5 +1,5 @@
 # PizzaSales-Analysis-Dashboard
-Hello Connections ..
+Hello
 
 
 Created interactive dashboard to track and analyze reports
